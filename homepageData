@@ -1,0 +1,2776 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "header": {
+              "headerStyling": {
+                "padding": { "left": 16, "top": 14, "bottom": 2 }
+              }
+            },
+            "id": "topical_banner",
+            "imageGridCards": {
+              "info": [
+                {
+                  "id": "1136338",
+                  "imageId": "rng/md/carousel/production/7b3154ee2430f5c7fb0de6053aee36e9",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/91153?collection_id=91153&header_title=Swiggy+Weekends&tags=layout_foodcampaign&type=rcv2",
+                    "text": "Tropical_IM",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "Swiggy Weekend",
+                    "altTextCta": "ORDER NOW"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=91153&tags=layout_foodcampaign&header_title=Swiggy%20Weekends",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "1230603",
+                  "imageId": "rng/md/carousel/production/ee9c3e55c19858dc877b86578bcf8ed1",
+                  "action": {
+                    "link": "https://www.swiggy.com/menu/144738",
+                    "text": "Shukla Bhojnalay",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "Shukla Bhojnalay",
+                    "altTextCta": "Order Now"
+                  },
+                  "entityId": "144738",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "1230703",
+                  "imageId": "rng/md/carousel/production/8265db8a855d6647466d7bfa2b3bdf05",
+                  "action": {
+                    "link": "https://www.swiggy.com/menu/746100",
+                    "text": "Kwality Walls",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "Kwality Walls",
+                    "altTextCta": "Order Now"
+                  },
+                  "entityId": "746100",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "635513",
+                  "imageId": "rng/md/carousel/production/731031544495581f1d6884624aa3ecf5",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/78798?collection_id=78798&tags=layout_ux4&type=rcv2",
+                    "text": "All new super",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "GET 50% OFF ON FIRST ORDER",
+                    "altTextCta": "ORDER NOW"
+                  },
+                  "entityId": "78798",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "1232102",
+                  "imageId": "rng/md/carousel/production/07983e8a681a72d4b0d673f17c3a9aa2",
+                  "action": {
+                    "link": "https://www.swiggy.com/menu/221897",
+                    "text": "Burger King",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "Burger King",
+                    "altTextCta": "Order Now"
+                  },
+                  "entityId": "221897",
+                  "frequencyCapping": {},
+                  "isManualAds": true
+                },
+                {
+                  "id": "1232123",
+                  "imageId": "rng/md/carousel/production/461e400bdae623ac26eb36fe73130cef",
+                  "action": {
+                    "link": "https://www.swiggy.com/menu/287717",
+                    "text": "New Mogli Sweets ",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "New Mogli Sweets Fast Food & Bhojanalay",
+                    "altTextCta": "Order Now"
+                  },
+                  "entityId": "287717",
+                  "frequencyCapping": {}
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "header": {
+              "title": "What's on your mind?",
+              "headerStyling": {
+                "padding": { "left": 16, "top": 16, "bottom": 4 }
+              }
+            },
+            "imageGridCards": {
+              "info": [
+                {
+                  "id": "750580",
+                  "imageId": "v1674029856/PC_Creative%20refresh/3D_bau/banners_new/Pizza.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83644?collection_id=83644&tags=layout_CCS_Pizza&type=rcv2",
+                    "text": "pizzas",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for pizza",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83644&tags=layout_CCS_Pizza",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750582",
+                  "imageId": "v1675667625/PC_Creative%20refresh/North_Indian_4.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83645?collection_id=83645&tags=layout_CCS_NorthIndian&type=rcv2",
+                    "text": "North Indian",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for north indian",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83645&tags=layout_CCS_NorthIndian",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "762797",
+                  "imageId": "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Burger.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83637?collection_id=83637&tags=layout_CCS_Burger&type=rcv2",
+                    "text": "Burgers",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for burger",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750239",
+                  "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Shakes.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83674?collection_id=83674&tags=layout_CCS_Shakes&type=rcv2",
+                    "text": "Shake",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for shakes",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83674&tags=layout_CCS_Shakes",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750217",
+                  "imageId": "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pav_Bhaji.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80364?collection_id=80364&tags=layout_PavBhaji_Contextual&type=rcv2",
+                    "text": "Pav Bhaji",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for pav bhaji",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=80364&tags=layout_PavBhaji_Contextual",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750223",
+                  "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rolls.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83670?collection_id=83670&tags=layout_CCS_Rolls&type=rcv2",
+                    "text": "Rolls",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for roll",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83670&tags=layout_CCS_Rolls",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750261",
+                  "imageId": "v1674029860/PC_Creative%20refresh/3D_bau/banners_new/Rasmalai.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80391?collection_id=80391&tags=layout_BAU_Contextual%2Crasmalai&type=rcv2",
+                    "text": "Rasmalai",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for rasmalai",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "80391",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750588",
+                  "imageId": "v1674029848/PC_Creative%20refresh/3D_bau/banners_new/Chinese.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83647?collection_id=83647&tags=layout_CCS_Chinese&type=rcv2",
+                    "text": "Chinese",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for chinese",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83647&tags=layout_CCS_Chinese",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "749874",
+                  "imageId": "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Cakes.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83656?collection_id=83656&tags=layout_CCS_Cake&type=rcv2",
+                    "text": "Cakes",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for cakes",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83656&tags=layout_CCS_Cake",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750592",
+                  "imageId": "v1675667625/PC_Creative%20refresh/Biryani_2.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83649?collection_id=83649&tags=layout_CCS_Biryani&type=rcv2",
+                    "text": "Biryani",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for biryani",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83649&tags=layout_CCS_Biryani",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "749879",
+                  "imageId": "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Chole_Bature.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80383?collection_id=80383&tags=layout_CCS_CholeBhature&type=rcv2",
+                    "text": "Chole Bhature",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for chhole bhatoore",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=80383&tags=layout_CCS_CholeBhature",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750572",
+                  "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Pure_Veg.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80439?collection_id=80439&tags=layout_CCS_PureVeg&type=rcv2",
+                    "text": "Pure Veg",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for veg",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=80439&tags=layout_CCS_PureVeg",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750132",
+                  "imageId": "v1674029850/PC_Creative%20refresh/3D_bau/banners_new/Dosa.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80426?collection_id=80426&tags=layout_CCS_Dosa&type=rcv2",
+                    "text": "Dosa",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for dosa",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=80426&tags=layout_CCS_Dosa",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750203",
+                  "imageId": "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Paratha.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80476?collection_id=80476&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
+                    "text": "Paratha",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for paratha",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "80476",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750597",
+                  "imageId": "v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Ice_Creams.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83650?collection_id=83650&tags=layout_CCS_IceCreams&type=rcv2",
+                    "text": "Ice Cream",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for icecream",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83650&tags=layout_CCS_IceCreams",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750207",
+                  "imageId": "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pasta.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80480?collection_id=80480&tags=layout_BAU_Contextual%2Cpasta%2Cads_pc_pasta&type=rcv2",
+                    "text": "Pasta",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for pasta",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "80480",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750259",
+                  "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rasgulla.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80389?collection_id=80389&tags=layout_BAU_Contextual%2Crasgulla&type=rcv2",
+                    "text": "Rasgulla",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for rasgulla",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "80389",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "749763",
+                  "imageId": "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Lassi.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80459?collection_id=80459&tags=layout_BAU_Contextual%2Classi&type=rcv2",
+                    "text": "Lassi",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for lassi",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "80459",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750078",
+                  "imageId": "v1674029846/PC_Creative%20refresh/3D_bau/banners_new/Coffee.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83660?collection_id=83660&tags=layout_CCS_Coffee&type=rcv2",
+                    "text": "Coffee",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for coffee",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83660&tags=layout_CCS_Coffee",
+                  "frequencyCapping": {}
+                },
+                {
+                  "id": "750636",
+                  "imageId": "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Kebabs.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80452?collection_id=80452&tags=layout_BAU_Contextual%2Ckebab%2Cads_pc_kebab&type=rcv2",
+                    "text": "Kebabs",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for kebabs",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "80452",
+                  "frequencyCapping": {}
+                }
+              ]
+            },
+            "id": "whats_on_your_mind",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard",
+                "info": [
+                  {
+                    "id": "750580",
+                    "imageId": "v1674029856/PC_Creative%20refresh/3D_bau/banners_new/Pizza.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83644?collection_id=83644&tags=layout_CCS_Pizza&type=rcv2",
+                      "text": "pizzas",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for pizza",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83644&tags=layout_CCS_Pizza",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750582",
+                    "imageId": "v1675667625/PC_Creative%20refresh/North_Indian_4.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83645?collection_id=83645&tags=layout_CCS_NorthIndian&type=rcv2",
+                      "text": "North Indian",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for north indian",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83645&tags=layout_CCS_NorthIndian",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "762797",
+                    "imageId": "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Burger.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83637?collection_id=83637&tags=layout_CCS_Burger&type=rcv2",
+                      "text": "Burgers",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for burger",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750239",
+                    "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Shakes.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83674?collection_id=83674&tags=layout_CCS_Shakes&type=rcv2",
+                      "text": "Shake",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for shakes",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83674&tags=layout_CCS_Shakes",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750217",
+                    "imageId": "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pav_Bhaji.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80364?collection_id=80364&tags=layout_PavBhaji_Contextual&type=rcv2",
+                      "text": "Pav Bhaji",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for pav bhaji",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=80364&tags=layout_PavBhaji_Contextual",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750223",
+                    "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rolls.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83670?collection_id=83670&tags=layout_CCS_Rolls&type=rcv2",
+                      "text": "Rolls",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for roll",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83670&tags=layout_CCS_Rolls",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750261",
+                    "imageId": "v1674029860/PC_Creative%20refresh/3D_bau/banners_new/Rasmalai.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80391?collection_id=80391&tags=layout_BAU_Contextual%2Crasmalai&type=rcv2",
+                      "text": "Rasmalai",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for rasmalai",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "80391",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750588",
+                    "imageId": "v1674029848/PC_Creative%20refresh/3D_bau/banners_new/Chinese.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83647?collection_id=83647&tags=layout_CCS_Chinese&type=rcv2",
+                      "text": "Chinese",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for chinese",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83647&tags=layout_CCS_Chinese",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "749874",
+                    "imageId": "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Cakes.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83656?collection_id=83656&tags=layout_CCS_Cake&type=rcv2",
+                      "text": "Cakes",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for cakes",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83656&tags=layout_CCS_Cake",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750592",
+                    "imageId": "v1675667625/PC_Creative%20refresh/Biryani_2.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83649?collection_id=83649&tags=layout_CCS_Biryani&type=rcv2",
+                      "text": "Biryani",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for biryani",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83649&tags=layout_CCS_Biryani",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "749879",
+                    "imageId": "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Chole_Bature.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80383?collection_id=80383&tags=layout_CCS_CholeBhature&type=rcv2",
+                      "text": "Chole Bhature",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for chhole bhatoore",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=80383&tags=layout_CCS_CholeBhature",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750572",
+                    "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Pure_Veg.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80439?collection_id=80439&tags=layout_CCS_PureVeg&type=rcv2",
+                      "text": "Pure Veg",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for veg",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=80439&tags=layout_CCS_PureVeg",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750132",
+                    "imageId": "v1674029850/PC_Creative%20refresh/3D_bau/banners_new/Dosa.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80426?collection_id=80426&tags=layout_CCS_Dosa&type=rcv2",
+                      "text": "Dosa",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for dosa",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=80426&tags=layout_CCS_Dosa",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750203",
+                    "imageId": "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Paratha.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80476?collection_id=80476&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
+                      "text": "Paratha",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for paratha",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "80476",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750597",
+                    "imageId": "v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Ice_Creams.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83650?collection_id=83650&tags=layout_CCS_IceCreams&type=rcv2",
+                      "text": "Ice Cream",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for icecream",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83650&tags=layout_CCS_IceCreams",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750207",
+                    "imageId": "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pasta.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80480?collection_id=80480&tags=layout_BAU_Contextual%2Cpasta%2Cads_pc_pasta&type=rcv2",
+                      "text": "Pasta",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for pasta",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "80480",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750259",
+                    "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rasgulla.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80389?collection_id=80389&tags=layout_BAU_Contextual%2Crasgulla&type=rcv2",
+                      "text": "Rasgulla",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for rasgulla",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "80389",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "749763",
+                    "imageId": "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Lassi.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80459?collection_id=80459&tags=layout_BAU_Contextual%2Classi&type=rcv2",
+                      "text": "Lassi",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for lassi",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "80459",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750078",
+                    "imageId": "v1674029846/PC_Creative%20refresh/3D_bau/banners_new/Coffee.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83660?collection_id=83660&tags=layout_CCS_Coffee&type=rcv2",
+                      "text": "Coffee",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for coffee",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83660&tags=layout_CCS_Coffee",
+                    "frequencyCapping": {}
+                  },
+                  {
+                    "id": "750636",
+                    "imageId": "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Kebabs.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80452?collection_id=80452&tags=layout_BAU_Contextual%2Ckebab%2Cads_pc_kebab&type=rcv2",
+                      "text": "Kebabs",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for kebabs",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "80452",
+                    "frequencyCapping": {}
+                  }
+                ],
+                "style": {
+                  "width": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.2941,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                  },
+                  "height": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 1.2444,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "header": {
+              "title": "Top restaurant chains in Kanpur",
+              "action": {},
+              "headerStyling": {
+                "padding": { "left": 16, "top": 28, "bottom": 18 }
+              }
+            },
+            "id": "top_brands_for_you",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+                "restaurants": [
+                  {
+                    "info": {
+                      "id": "501852",
+                      "name": "New Pizza of Kings",
+                      "cloudinaryImageId": "474810a9aca15ffab25957931947646c",
+                      "locality": "Dargah Road",
+                      "areaName": "Kalpi Road",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Pizzas", "Indian"],
+                      "avgRating": 3.8,
+                      "feeDetails": {
+                        "restaurantId": "501852",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 2700 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 2700
+                      },
+                      "parentId": "13567",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 33,
+                        "lastMileTravel": 1.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "33 mins",
+                        "lastMileTravelString": "1.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 23:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹199",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {
+                      "context": "seo-data-55f94c84-043f-4ca2-b8ab-2b25eca2240e"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/new-pizza-of-kings-dargah-road-kalpi-road-kanpur-501852",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "info": {
+                      "id": "699598",
+                      "name": "Big Bowl",
+                      "cloudinaryImageId": "546730f50d0c2b6e9a1446022a08ed21",
+                      "locality": "Kidwai Nagar",
+                      "areaName": "South X Mall",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Tibetan",
+                        "Desserts"
+                      ],
+                      "avgRating": 4.1,
+                      "feeDetails": {
+                        "restaurantId": "699598",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 2700 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 2700
+                      },
+                      "parentId": "434792",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 28,
+                        "lastMileTravel": 2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "28 mins",
+                        "lastMileTravelString": "2.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 00:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {
+                      "context": "seo-data-55f94c84-043f-4ca2-b8ab-2b25eca2240e"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/big-bowl-kidwai-nagar-south-x-mall-kanpur-699598",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "info": {
+                      "id": "134618",
+                      "name": "Gyan Vaishnav Restaurant",
+                      "cloudinaryImageId": "oyutmi5dtiobarm5fo9s",
+                      "locality": "Halsey Road",
+                      "areaName": "Ghantaghar",
+                      "costForTwo": "₹150 for two",
+                      "cuisines": ["North Indian", "Thalis", "Sweets"],
+                      "avgRating": 4,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "134618",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 2700 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 2700
+                      },
+                      "parentId": "349292",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 33,
+                        "lastMileTravel": 2.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "33 mins",
+                        "lastMileTravelString": "2.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 18:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹100 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {
+                      "context": "seo-data-55f94c84-043f-4ca2-b8ab-2b25eca2240e"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/gyan-vaishnav-restaurant-halsey-road-ghantaghar-kanpur-134618",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "info": {
+                      "id": "88393",
+                      "name": "Bakista",
+                      "cloudinaryImageId": "tbnsthjqe3tln5rcp8ys",
+                      "locality": "Tar Bangaliya Road",
+                      "areaName": "Kidwai Nagar Market",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Pizzas",
+                        "Burgers",
+                        "Fast Food",
+                        "Beverages"
+                      ],
+                      "avgRating": 4,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "88393",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 2700 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 2700
+                      },
+                      "parentId": "40457",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 2.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "27 mins",
+                        "lastMileTravelString": "2.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 23:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹199",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {
+                      "context": "seo-data-55f94c84-043f-4ca2-b8ab-2b25eca2240e"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/bakista-tar-bangaliya-road-kidwai-nagar-market-kanpur-88393",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "info": {
+                      "id": "318387",
+                      "name": "Zyka Restaurant(Parade)",
+                      "cloudinaryImageId": "dpawm0slsgjpzdgybh6v",
+                      "locality": "Naveen Market Road",
+                      "areaName": "Parade",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Mughlai",
+                        "Biryani",
+                        "North Indian",
+                        "Chinese",
+                        "Tandoor",
+                        "Pizzas"
+                      ],
+                      "avgRating": 4,
+                      "feeDetails": {
+                        "restaurantId": "318387",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "230264",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 33,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "33 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 23:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹199",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/zyka-restaurant-parade-naveen-market-road-parade-kanpur-318387",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "144738",
+                      "name": "Shukla Bhojnalay",
+                      "cloudinaryImageId": "ewulfgphspwjubsiv97y",
+                      "locality": "KDA Market",
+                      "areaName": "Barra",
+                      "costForTwo": "₹100 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Thalis",
+                        "South Indian",
+                        "Chinese"
+                      ],
+                      "avgRating": 3.9,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "144738",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "13488",
+                      "avgRatingString": "3.9",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 35,
+                        "lastMileTravel": 4.2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35 mins",
+                        "lastMileTravelString": "4.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 00:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹199",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/shukla-bhojnalay-kda-market-barra-kanpur-144738",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "435684",
+                      "name": "Pizza Hut",
+                      "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+                      "locality": "W1 Block",
+                      "areaName": "Saket Nagar",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": ["Pizzas"],
+                      "avgRating": 3.6,
+                      "feeDetails": {
+                        "restaurantId": "435684",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "721",
+                      "avgRatingString": "3.6",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 33,
+                        "lastMileTravel": 3.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "33 mins",
+                        "lastMileTravelString": "3.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 02:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/pizza-hut-w1-block-saket-nagar-kanpur-435684",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "88391",
+                      "name": "Agra Sweet House(Since 1956)",
+                      "cloudinaryImageId": "xnz7ldxywdrnycfghozf",
+                      "locality": "Kaushalpuri",
+                      "areaName": "Ashok Nagar",
+                      "costForTwo": "₹150 for two",
+                      "cuisines": ["Street Food", "Sweets", "Desserts"],
+                      "avgRating": 4.2,
+                      "feeDetails": {
+                        "restaurantId": "88391",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "27804",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 23,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "23 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 22:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "D",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/agra-sweet-house-since-1956-kaushalpuri-ashok-nagar-kanpur-88391",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "186507",
+                      "name": "Budhsen Sweet House",
+                      "cloudinaryImageId": "mo88xn4l83sdeijeio6a",
+                      "locality": "General Ganj",
+                      "areaName": "Birhana Road",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Sweets", "Desserts", "Snacks"],
+                      "avgRating": 4.4,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "186507",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3800 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3800
+                      },
+                      "parentId": "13415",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 29,
+                        "lastMileTravel": 4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "29 mins",
+                        "lastMileTravelString": "4.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 21:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹199",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/budhsen-sweet-house-general-ganj-birhana-road-kanpur-186507",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "216056",
+                      "name": "Mithas",
+                      "cloudinaryImageId": "d9f30a479c2f2fe86049b4f2e91cc92e",
+                      "locality": "G Block",
+                      "areaName": "Kidwai Nagar",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": [
+                        "Sweets",
+                        "North Indian",
+                        "Snacks",
+                        "Beverages",
+                        "South Indian",
+                        "Chaat"
+                      ],
+                      "avgRating": 4.3,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "216056",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 2700 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 2700
+                      },
+                      "parentId": "7558",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 2.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "27 mins",
+                        "lastMileTravelString": "2.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 21:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/mithas-g-block-kidwai-nagar-kanpur-216056",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "376847",
+                      "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+                      "cloudinaryImageId": "mnshxflev8p10ca6tdw3",
+                      "locality": "Topkhana Bazar",
+                      "areaName": "Kanpur Cantt",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+                      "avgRating": 4.4,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "376847",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "582",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 38,
+                        "lastMileTravel": 3.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "38 mins",
+                        "lastMileTravelString": "3.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 21:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/kwality-walls-frozen-dessert-and-ice-cream-shop-topkhana-bazar-kanpur-cantt-kanpur-376847",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "359803",
+                      "name": "Grameen Kulfi",
+                      "cloudinaryImageId": "g3azphzmvsn8ykuagunt",
+                      "locality": "R K Nagar",
+                      "areaName": "Darshan Purwa",
+                      "costForTwo": "₹120 for two",
+                      "cuisines": ["Ice Cream", "Desserts"],
+                      "avgRating": 4.7,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "359803",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "12175",
+                      "avgRatingString": "4.7",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 23,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "23 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 00:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "EVERY ITEM",
+                        "subHeader": "@ ₹99",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/grameen-kulfi-r-k-nagar-darshan-purwa-kanpur-359803",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "530529",
+                      "name": "New York Waffles & Dinges",
+                      "cloudinaryImageId": "ijaa6n0t1u483odwbdlg",
+                      "locality": "K Block",
+                      "areaName": "Kidwai Nagar Market",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Waffle", "Desserts", "Beverages"],
+                      "avgRating": 4.2,
+                      "feeDetails": {
+                        "restaurantId": "530529",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "148410",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 32,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "32 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 21:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/new-york-waffles-and-dinges-k-block-kidwai-nagar-market-kanpur-530529",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "431047",
+                      "name": "La Pino'z Pizza",
+                      "cloudinaryImageId": "5fe4444a065b60c4fe39ef975222c12b",
+                      "locality": "Darshan Purwa",
+                      "areaName": "Lajpat Nagar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Pizzas",
+                        "Pastas",
+                        "Italian",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 3.8,
+                      "feeDetails": {
+                        "restaurantId": "431047",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "4961",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 32,
+                        "lastMileTravel": 4.2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "32 mins",
+                        "lastMileTravelString": "4.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 01:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹649",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/la-pinoz-pizza-darshan-purwa-lajpat-nagar-kanpur-431047",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "359354",
+                      "name": "Starbucks Coffee",
+                      "cloudinaryImageId": "4df3497f1460dfd1ecd8125222f6d362",
+                      "locality": "Z Square Mall",
+                      "areaName": "Mall Road",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Beverages",
+                        "Cafe",
+                        "Snacks",
+                        "Desserts",
+                        "Bakery",
+                        "Ice Cream"
+                      ],
+                      "avgRating": 4.3,
+                      "feeDetails": {
+                        "restaurantId": "359354",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "195515",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 35,
+                        "lastMileTravel": 4.1,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35 mins",
+                        "lastMileTravelString": "4.1 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 22:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "ABOVE ₹700",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/starbucks-coffee-z-square-mall-mall-road-kanpur-359354",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "257141",
+                      "name": "Baskin Robbins - Ice Cream Desserts",
+                      "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+                      "locality": "Arya Nagar",
+                      "areaName": "Swaroop Nagar",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["Desserts", "Ice Cream"],
+                      "avgRating": 4,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "257141",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 4600 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 4600
+                      },
+                      "parentId": "5588",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "27 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 03:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "ABOVE ₹1000",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-arya-nagar-swaroop-nagar-kanpur-257141",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "75044",
+                      "name": "KFC",
+                      "cloudinaryImageId": "56c9ab92bd79745fd152a30fa2525426",
+                      "locality": "Z Square Mall",
+                      "areaName": "Mall Road",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Burgers",
+                        "Biryani",
+                        "American",
+                        "Snacks",
+                        "Fast Food"
+                      ],
+                      "avgRating": 4.1,
+                      "feeDetails": {
+                        "restaurantId": "75044",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "547",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 36,
+                        "lastMileTravel": 4.1,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "36 mins",
+                        "lastMileTravelString": "4.1 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/kfc-z-square-mall-mall-road-kanpur-75044",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "69588",
+                      "name": "Food Carnival",
+                      "cloudinaryImageId": "wa8a7irojeoame4wv9yi",
+                      "locality": "Allenganj",
+                      "areaName": "Arya Nagar",
+                      "costForTwo": "₹100 for two",
+                      "cuisines": [
+                        "Biryani",
+                        "South Indian",
+                        "Snacks",
+                        "Fast Food"
+                      ],
+                      "avgRating": 4,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "69588",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 4600 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 4600
+                      },
+                      "parentId": "81062",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 30,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-03 22:50:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹199",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/food-carnival-allenganj-arya-nagar-kanpur-69588",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "361081",
+                      "name": "Faasos - Wraps & Rolls",
+                      "cloudinaryImageId": "af33b81798b11deba338e94b7585d348",
+                      "locality": "Permat",
+                      "areaName": "Harsh Nagar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Kebabs",
+                        "Fast Food",
+                        "Snacks",
+                        "North Indian",
+                        "American",
+                        "Healthy Food",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.1,
+                      "feeDetails": {
+                        "restaurantId": "361081",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "21809",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 34,
+                        "lastMileTravel": 3.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "34 mins",
+                        "lastMileTravelString": "3.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 01:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/faasos-wraps-and-rolls-permat-harsh-nagar-kanpur-361081",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "361086",
+                      "name": "LunchBox - Meals and Thalis",
+                      "cloudinaryImageId": "a7bvtldxwl2wmvpbd8wt",
+                      "locality": "Permat",
+                      "areaName": "Harsh Nagar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Biryani",
+                        "North Indian",
+                        "Punjabi",
+                        "Healthy Food",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.1,
+                      "feeDetails": {
+                        "restaurantId": "361086",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "4925",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 33,
+                        "lastMileTravel": 3.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "33 mins",
+                        "lastMileTravelString": "3.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 01:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/lunchbox-meals-and-thalis-permat-harsh-nagar-kanpur-361086",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "361087",
+                      "name": "The Good Bowl",
+                      "cloudinaryImageId": "0b3356a88b6fc5966c452c4c9b1b5e4a",
+                      "locality": "Permat",
+                      "areaName": "Harsh Nagar",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Biryani",
+                        "North Indian",
+                        "Pastas",
+                        "Punjabi",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {
+                        "restaurantId": "361087",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "7918",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "500+",
+                      "sla": {
+                        "deliveryTime": 29,
+                        "lastMileTravel": 3.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "29 mins",
+                        "lastMileTravelString": "3.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 01:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/the-good-bowl-permat-harsh-nagar-kanpur-361087",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "221897",
+                      "name": "Burger King",
+                      "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                      "locality": "South X Mall",
+                      "areaName": "Kidwai Nagar",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": ["Burgers", "American"],
+                      "avgRating": 4.2,
+                      "feeDetails": {
+                        "restaurantId": "221897",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 2700 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 2700
+                      },
+                      "parentId": "166",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 25,
+                        "lastMileTravel": 2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25 mins",
+                        "lastMileTravelString": "2.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 02:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/burger-king-south-x-mall-kidwai-nagar-kanpur-221897",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "262891",
+                      "name": "Wow! Momo",
+                      "cloudinaryImageId": "0984acc0ed7b914206dbbcb90297becc",
+                      "locality": "Govind Nagar",
+                      "areaName": "Nandlal Chawraha",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": [
+                        "Tibetan",
+                        "Healthy Food",
+                        "Asian",
+                        "Chinese",
+                        "Snacks",
+                        "Continental",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4,
+                      "feeDetails": {
+                        "restaurantId": "262891",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 2700 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 2700
+                      },
+                      "parentId": "1776",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 32,
+                        "lastMileTravel": 2.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "32 mins",
+                        "lastMileTravelString": "2.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 01:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/wow-momo-govind-nagar-nandlal-chawraha-kanpur-262891",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "316297",
+                      "name": "NIC Ice Creams",
+                      "cloudinaryImageId": "c8b98c4064dc2fd6bdf350212e5f0bd5",
+                      "locality": "R K Nagar",
+                      "areaName": "Darshan Purwa",
+                      "costForTwo": "₹120 for two",
+                      "cuisines": ["Ice Cream", "Desserts"],
+                      "avgRating": 4.7,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "316297",
+                        "fees": [
+                          { "name": "BASE_DISTANCE", "fee": 3300 },
+                          { "name": "BASE_TIME" },
+                          { "name": "ANCILLARY_SURGE_FEE" }
+                        ],
+                        "totalFee": 3300
+                      },
+                      "parentId": "6249",
+                      "avgRatingString": "4.7",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 25,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-09-04 00:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100",
+                        "discountCalloutInfo": {
+                          "message": "Free Delivery",
+                          "logoCtx": {
+                            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/nic-ice-creams-r-k-nagar-darshan-purwa-kanpur-316297",
+                      "type": "WEBLINK"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BasicContent",
+            "title": "Restaurants with online food delivery in Kanpur",
+            "id": "popular_restaurants_title"
+          }
+        }
+      },
+      {
+        "card": {}
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": { "columns": 4 },
+            "id": "restaurant_grid_listing"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.seo.widgets.v1.ShowMoreButton",
+            "message": "Show More",
+            "id": "show_more_button"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BrandsContent",
+            "title": "Best Places to Eat Across Cities",
+            "id": "best_city_link"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.seo.widgets.v1.CuisinesContent",
+            "title": "Best Cuisines Near Me",
+            "facetId": "catalog_cuisines",
+            "id": "cuisines_near_you"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BrandsContent",
+            "title": "Explore Every Restaurants Near Me",
+            "id": "restaurant_near_me_links"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.seo.widgets.v1.AppInstallLinks",
+            "title": "For better experience,download the Swiggy app now",
+            "id": "app_install_links"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.seo.widgets.v1.FooterContent",
+            "id": "footer_content"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.seo.widgets.v1.MetaContext",
+            "citySlug": "kanpur",
+            "lat": "26.449923",
+            "lng": "80.3318736"
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "cacheExpiryTime": 240,
+    "nextFetch": 1
+  },
+  "tid": "5876aa2c-94ed-48c9-853a-deaae787449a",
+  "sid": "94e8e081-9d04-4fff-a4e3-cc01e2b454a8",
+  "deviceId": "62a8c06d-2534-ba87-b6f3-470ba76892bc",
+  "csrfToken": "StsJwFG4YKu8-CWo2zYwYBvaFXyswjp6dTE8qGqE"
+}
